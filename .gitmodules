@@ -1,0 +1,3 @@
+[submodule "grammars/tree-sitter-cobol"]
+	path = grammars/tree-sitter-cobol
+	url = https://github.com/Neppord/tree-sitter-cobol
