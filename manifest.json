@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "languages": [
+    {
+      "name": "cobol",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/cobol.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/cobol.scm",
+      "extensions": [".cob", ".cbl"],
+      "sha256_wasm": "f98b65f7a264f4d115d7f395ff12283a16186df547b7b13006ed9e2361911f9f",
+      "sha256_highlights": "4009d7aee3d0f40deb506b73e1a02f394b9dbcdab73995c09158780f4975965c"
+    }
+  ]
+}
