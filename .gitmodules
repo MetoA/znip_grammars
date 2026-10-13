@@ -1,3 +1,168 @@
 [submodule "grammars/tree-sitter-cobol"]
 	path = grammars/tree-sitter-cobol
 	url = https://github.com/Neppord/tree-sitter-cobol
+[submodule "grammars/tree-sitter-c-sharp"]
+	path = grammars/tree-sitter-c-sharp
+	url = https://github.com/tree-sitter/tree-sitter-c-sharp
+[submodule "grammars/tree-sitter-bash"]
+	path = grammars/tree-sitter-bash
+	url = https://github.com/tree-sitter/tree-sitter-bash
+[submodule "grammars/tree-sitter-kotlin"]
+	path = grammars/tree-sitter-kotlin
+	url = https://github.com/fwcd/tree-sitter-kotlin
+[submodule "grammars/tree-sitter-swift"]
+	path = grammars/tree-sitter-swift
+	url = https://github.com/alex-pinkus/tree-sitter-swift
+[submodule "grammars/tree-sitter-powershell"]
+	path = grammars/tree-sitter-powershell
+	url = https://github.com/airbus-cert/tree-sitter-powershell
+[submodule "grammars/tree-sitter-dart"]
+	path = grammars/tree-sitter-dart
+	url = https://github.com/UserNobody14/tree-sitter-dart
+[submodule "grammars/tree-sitter-r"]
+	path = grammars/tree-sitter-r
+	url = https://github.com/r-lib/tree-sitter-r
+[submodule "grammars/tree-sitter-lua"]
+	path = grammars/tree-sitter-lua
+	url = https://github.com/tree-sitter-grammars/tree-sitter-lua
+[submodule "grammars/tree-sitter-scala"]
+	path = grammars/tree-sitter-scala
+	url = https://github.com/tree-sitter/tree-sitter-scala
+[submodule "grammars/tree-sitter-objc"]
+	path = grammars/tree-sitter-objc
+	url = https://github.com/tree-sitter-grammars/tree-sitter-objc
+[submodule "grammars/tree-sitter-perl"]
+	path = grammars/tree-sitter-perl
+	url = https://github.com/tree-sitter-perl/tree-sitter-perl
+[submodule "grammars/tree-sitter-haskell"]
+	path = grammars/tree-sitter-haskell
+	url = https://github.com/tree-sitter/tree-sitter-haskell
+[submodule "grammars/tree-sitter-elixir"]
+	path = grammars/tree-sitter-elixir
+	url = https://github.com/elixir-lang/tree-sitter-elixir
+[submodule "grammars/tree-sitter-julia"]
+	path = grammars/tree-sitter-julia
+	url = https://github.com/tree-sitter/tree-sitter-julia
+[submodule "grammars/tree-sitter-matlab"]
+	path = grammars/tree-sitter-matlab
+	url = https://github.com/acristoffers/tree-sitter-matlab
+[submodule "grammars/tree-sitter-groovy"]
+	path = grammars/tree-sitter-groovy
+	url = https://github.com/murtaza64/tree-sitter-groovy
+[submodule "grammars/tree-sitter-svelte"]
+	path = grammars/tree-sitter-svelte
+	url = https://github.com/tree-sitter-grammars/tree-sitter-svelte
+[submodule "grammars/tree-sitter-vue"]
+	path = grammars/tree-sitter-vue
+	url = https://github.com/tree-sitter-grammars/tree-sitter-vue
+[submodule "grammars/tree-sitter-astro"]
+	path = grammars/tree-sitter-astro
+	url = https://github.com/virchau13/tree-sitter-astro
+[submodule "grammars/tree-sitter-scss"]
+	path = grammars/tree-sitter-scss
+	url = https://github.com/serenadeai/tree-sitter-scss
+[submodule "grammars/tree-sitter-fsharp"]
+	path = grammars/tree-sitter-fsharp
+	url = https://github.com/ionide/tree-sitter-fsharp
+[submodule "grammars/tree-sitter-clojure"]
+	path = grammars/tree-sitter-clojure
+	url = https://github.com/sogaiu/tree-sitter-clojure
+[submodule "grammars/tree-sitter-erlang"]
+	path = grammars/tree-sitter-erlang
+	url = https://github.com/WhatsApp/tree-sitter-erlang
+[submodule "grammars/tree-sitter-ocaml"]
+	path = grammars/tree-sitter-ocaml
+	url = https://github.com/tree-sitter/tree-sitter-ocaml
+[submodule "grammars/tree-sitter-fortran"]
+	path = grammars/tree-sitter-fortran
+	url = https://github.com/stadelmanma/tree-sitter-fortran
+[submodule "grammars/tree-sitter-solidity"]
+	path = grammars/tree-sitter-solidity
+	url = https://github.com/JoranHonig/tree-sitter-solidity
+[submodule "grammars/tree-sitter-cuda"]
+	path = grammars/tree-sitter-cuda
+	url = https://github.com/tree-sitter-grammars/tree-sitter-cuda
+[submodule "grammars/tree-sitter-glsl"]
+	path = grammars/tree-sitter-glsl
+	url = https://github.com/tree-sitter-grammars/tree-sitter-glsl
+[submodule "grammars/tree-sitter-asm"]
+	path = grammars/tree-sitter-asm
+	url = https://github.com/RubixDev/tree-sitter-asm
+[submodule "grammars/tree-sitter-verilog"]
+	path = grammars/tree-sitter-verilog
+	url = https://github.com/tree-sitter/tree-sitter-verilog
+[submodule "grammars/tree-sitter-nim"]
+	path = grammars/tree-sitter-nim
+	url = https://github.com/alaviss/tree-sitter-nim
+[submodule "grammars/tree-sitter-crystal"]
+	path = grammars/tree-sitter-crystal
+	url = https://github.com/crystal-lang-tools/tree-sitter-crystal
+[submodule "grammars/tree-sitter-odin"]
+	path = grammars/tree-sitter-odin
+	url = https://github.com/tree-sitter-grammars/tree-sitter-odin
+[submodule "grammars/tree-sitter-d"]
+	path = grammars/tree-sitter-d
+	url = https://github.com/gdamore/tree-sitter-d
+[submodule "grammars/tree-sitter-gleam"]
+	path = grammars/tree-sitter-gleam
+	url = https://github.com/gleam-lang/tree-sitter-gleam
+[submodule "grammars/tree-sitter-elm"]
+	path = grammars/tree-sitter-elm
+	url = https://github.com/elm-tooling/tree-sitter-elm
+[submodule "grammars/tree-sitter-purescript"]
+	path = grammars/tree-sitter-purescript
+	url = https://github.com/postsolar/tree-sitter-purescript
+[submodule "grammars/tree-sitter-racket"]
+	path = grammars/tree-sitter-racket
+	url = https://github.com/6cdh/tree-sitter-racket
+[submodule "grammars/tree-sitter-scheme"]
+	path = grammars/tree-sitter-scheme
+	url = https://github.com/6cdh/tree-sitter-scheme
+[submodule "grammars/tree-sitter-commonlisp"]
+	path = grammars/tree-sitter-commonlisp
+	url = https://github.com/tree-sitter-grammars/tree-sitter-commonlisp
+[submodule "grammars/tree-sitter-pascal"]
+	path = grammars/tree-sitter-pascal
+	url = https://github.com/Isopod/tree-sitter-pascal
+[submodule "grammars/tree-sitter-ada"]
+	path = grammars/tree-sitter-ada
+	url = https://github.com/briot/tree-sitter-ada
+[submodule "grammars/tree-sitter-nix"]
+	path = grammars/tree-sitter-nix
+	url = https://github.com/nix-community/tree-sitter-nix
+[submodule "grammars/tree-sitter-yaml"]
+	path = grammars/tree-sitter-yaml
+	url = https://github.com/tree-sitter-grammars/tree-sitter-yaml
+[submodule "grammars/tree-sitter-toml"]
+	path = grammars/tree-sitter-toml
+	url = https://github.com/tree-sitter-grammars/tree-sitter-toml
+[submodule "grammars/tree-sitter-dockerfile"]
+	path = grammars/tree-sitter-dockerfile
+	url = https://github.com/camdencheek/tree-sitter-dockerfile
+[submodule "grammars/tree-sitter-xml"]
+	path = grammars/tree-sitter-xml
+	url = https://github.com/tree-sitter-grammars/tree-sitter-xml
+[submodule "grammars/tree-sitter-make"]
+	path = grammars/tree-sitter-make
+	url = https://github.com/tree-sitter-grammars/tree-sitter-make
+[submodule "grammars/tree-sitter-cmake"]
+	path = grammars/tree-sitter-cmake
+	url = https://github.com/uyha/tree-sitter-cmake
+[submodule "grammars/tree-sitter-hcl"]
+	path = grammars/tree-sitter-hcl
+	url = https://github.com/tree-sitter-grammars/tree-sitter-hcl
+[submodule "grammars/tree-sitter-graphql"]
+	path = grammars/tree-sitter-graphql
+	url = https://github.com/bkegley/tree-sitter-graphql
+[submodule "grammars/tree-sitter-proto"]
+	path = grammars/tree-sitter-proto
+	url = https://github.com/coder3101/tree-sitter-proto
+[submodule "grammars/tree-sitter-latex"]
+	path = grammars/tree-sitter-latex
+	url = https://github.com/latex-lsp/tree-sitter-latex
+[submodule "grammars/tree-sitter-ini"]
+	path = grammars/tree-sitter-ini
+	url = https://github.com/justinmk/tree-sitter-ini
+[submodule "grammars/tree-sitter-diff"]
+	path = grammars/tree-sitter-diff
+	url = https://github.com/the-mikedavis/tree-sitter-diff

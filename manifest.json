@@ -9,6 +9,465 @@
       "extensions": [".cob", ".cbl"],
       "sha256_wasm": "f98b65f7a264f4d115d7f395ff12283a16186df547b7b13006ed9e2361911f9f",
       "sha256_highlights": "4009d7aee3d0f40deb506b73e1a02f394b9dbcdab73995c09158780f4975965c"
+    },
+    {
+      "name": "c_sharp",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/c_sharp.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/c_sharp.scm",
+      "extensions": [".cs"],
+      "sha256_wasm": "d3711b966b6989b450cef630d1a6b0a501a7ad6a4a61971c4faf4df24e79433c",
+      "sha256_highlights": "499e0859dd43d76e33f76c27ab1b45cf7ddebe4fd4274bd00300025eaf403bf5"
+    },
+    {
+      "name": "bash",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/bash.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/bash.scm",
+      "extensions": [".sh", ".bash"],
+      "sha256_wasm": "1c14dc240687e25a1cd8a11ae5135a6c780986d724c488d74d3dd83c20954511",
+      "sha256_highlights": "b74220d954f485b7626d2b2b61f37b522e12eb1830803e388e57dd797dc99f11"
+    },
+    {
+      "name": "kotlin",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/kotlin.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/kotlin.scm",
+      "extensions": [".kt", ".kts"],
+      "sha256_wasm": "f0b67ea197d3c7e47c72e7730cbab3e04d5e7aab7762a3c77161f9f96a918c2a",
+      "sha256_highlights": "34523c8d1508a3932095f1e591aa866c1abc0a046bcc569f9d92642327d9c152"
+    },
+    {
+      "name": "swift",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/swift.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/swift.scm",
+      "extensions": [".swift"],
+      "sha256_wasm": "3e1cc9bf2e937a075d1052758c8f8bd15b397a4d55b9aaa660b9670a8b420a13",
+      "sha256_highlights": "d596694dbd96e036cc5392cae707845e445740618983bfc9571c3ac897410dd0"
+    },
+    {
+      "name": "powershell",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/powershell.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/powershell.scm",
+      "extensions": [".ps1", ".psm1"],
+      "sha256_wasm": "84555e38f85a391095b349a906b9790d319e3946ce12d9bc21dbec5cded5dad9",
+      "sha256_highlights": "ca7fbd3725832082793510fd478eefeb8ee1588adbbf8d1ff2dcb066249b35ac"
+    },
+    {
+      "name": "dart",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/dart.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/dart.scm",
+      "extensions": [".dart"],
+      "sha256_wasm": "dacb9ec000c39a47f2277f105ae80be02c8741dc9f81734486099a99426f85ee",
+      "sha256_highlights": "900c653c4f6ba486ddf2914b6997b803bbd4066317ec5eefc5e22375ff626762"
+    },
+    {
+      "name": "r",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/r.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/r.scm",
+      "extensions": [".r", ".R"],
+      "sha256_wasm": "5a68ef844621b173ecde1ad9b000daf23da236f4bc5cb8d7261820a07cd7b90b",
+      "sha256_highlights": "7fd08df9b6529a3b38507aac14da883025779f81c255a896ba961900cf0b4cd6"
+    },
+    {
+      "name": "lua",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/lua.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/lua.scm",
+      "extensions": [".lua"],
+      "sha256_wasm": "43db0f3e64ffd4ed1ada7a77e4489e54afa5afd7b5aa013679d8284d4ea0f074",
+      "sha256_highlights": "d2625fb712357f86386878602d18845f9f3e90fee81f02a5ecd87be6512918d1"
+    },
+    {
+      "name": "scala",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/scala.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/scala.scm",
+      "extensions": [".scala", ".sc"],
+      "sha256_wasm": "cc9e5532cc85af13eed43522892c7e897fe133fb828e27eeb47dd419800ceeff",
+      "sha256_highlights": "c6e2d65c4f84b5484af3e1edc3451850fe8d878ce11f79550e426f8ac6e2df4a"
+    },
+    {
+      "name": "objc",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/objc.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/objc.scm",
+      "extensions": [],
+      "sha256_wasm": "3d339220bfcfa547bc9525d23d7deda66d48e3bc2a88fd1acf3178b6b03cbb5a",
+      "sha256_highlights": "83f5f6883e3bb2526b67caf291eb96932ba9db3d64579a406d7bd43b3e52793a"
+    },
+    {
+      "name": "perl",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/perl.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/perl.scm",
+      "extensions": [".pl", ".pm"],
+      "sha256_wasm": "1c0f3e330e947c6a2f977b940198dd96d3283be13ad90c370ef0a3a9589c3980",
+      "sha256_highlights": "715dfb71507662f0af43665370eadfacc811054b33db9d3d946c9bacf8420959"
+    },
+    {
+      "name": "haskell",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/haskell.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/haskell.scm",
+      "extensions": [".hs"],
+      "sha256_wasm": "ea89cb1199b1ca2102e273b27239e795baff17248128a9bcd3c3825ac17d8cc0",
+      "sha256_highlights": "fbce7eeb38a24999958a54e8ea3c086d36467f4b34c919772fa6abc9747e8adf"
+    },
+    {
+      "name": "elixir",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/elixir.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/elixir.scm",
+      "extensions": [".ex", ".exs"],
+      "sha256_wasm": "0c8877dfb6efabaa4175c0d84f3dee7ee531e4131bd72046ab47903613a534d8",
+      "sha256_highlights": "5ee9952a99ce2f0c3dcdf4478daf38f259dd8df4e7f9a892e9f1c03ccdf61ea6"
+    },
+    {
+      "name": "julia",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/julia.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/julia.scm",
+      "extensions": [".jl"],
+      "sha256_wasm": "39d79bde94120e1ecbf809c52cc8a449b698282adef74c07d4d469b6fde4eb15",
+      "sha256_highlights": "b46bbba6ecf4c4278a38fdd9e397e0ded4ff2127c9a333a7b0e3eb359e2147fd"
+    },
+    {
+      "name": "matlab",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/matlab.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/matlab.scm",
+      "extensions": [],
+      "sha256_wasm": "65d969c986b13b6907b9253307ede8f5c2bd1d31692635a2eab058ec81bb4409",
+      "sha256_highlights": "6d6cbd761be35867a6e5dc4e74df52419494f49f731ed16dea2d9f6008da0dd1"
+    },
+    {
+      "name": "groovy",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/groovy.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/groovy.scm",
+      "extensions": [".groovy", ".gradle"],
+      "sha256_wasm": "9cc879d10b7108df5330f0800c9528b7278b67d34f0cd79c310ced15fb6a51b7",
+      "sha256_highlights": "b8d5ea6907596102477a96c68dfbe7aed4fb93a6e807055c40a9f84da2fe609b"
+    },
+    {
+      "name": "svelte",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/svelte.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/svelte.scm",
+      "extensions": [".svelte"],
+      "sha256_wasm": "f3fc6d3fe92bdbaafadb4cea0ec69b10a45731afb774d6bd84f6cb0db6239fec",
+      "sha256_highlights": "6059f8b2497056135418b7b43fc7cd1c853568137c199293893cda4bf50bfd65"
+    },
+    {
+      "name": "vue",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/vue.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/vue.scm",
+      "extensions": [".vue"],
+      "sha256_wasm": "45c440e80caabf37afd5da3c779a2f2efa99cd495e5c35e4ba9ac218b77a1de2",
+      "sha256_highlights": "2d4841526b72df4bde8ea11c25405064ff9f59b820c9741097341477053f9ac7"
+    },
+    {
+      "name": "astro",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/astro.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/astro.scm",
+      "extensions": [".astro"],
+      "sha256_wasm": "4c8ed2fbe4ed3c2bf064b91257585f71f41ef462404831d9f6c55f64abeed1f9",
+      "sha256_highlights": "f6e51028ed98eee88788fd9510e4a3cd764d74aee3ab93af816df3a37302fd16"
+    },
+    {
+      "name": "scss",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/scss.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/scss.scm",
+      "extensions": [".scss"],
+      "sha256_wasm": "166d60048eb8a55fac53fb5afb644eb2229b6ddad5881133abae1965472fa3c6",
+      "sha256_highlights": "04cd1ddf13827dd28dd5d591a08b50816eca8df69926218812c631056ea9f708"
+    },
+    {
+      "name": "fsharp",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/fsharp.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/fsharp.scm",
+      "extensions": [".fs", ".fsx"],
+      "sha256_wasm": "ff1a927387fec25e184d120d9e18ec7cd5271b30f6380f02d494d3548a99f7b7",
+      "sha256_highlights": "6c4bb51bdc8bbb3d88a1efbe2ccb49ce9e817789a8360dcb070fad33bfa72672"
+    },
+    {
+      "name": "clojure",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/clojure.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/clojure.scm",
+      "extensions": [".clj", ".cljs", ".cljc"],
+      "sha256_wasm": "8d8a9f387e96df17cbace9d6c8b604570fb52ee6e8b8e071358a3588283a5fde",
+      "sha256_highlights": "424b3b60f43cbb008c8d87730845855e0c1dde657f1a6f2e1408caf4f16914de"
+    },
+    {
+      "name": "erlang",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/erlang.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/erlang.scm",
+      "extensions": [".erl", ".hrl"],
+      "sha256_wasm": "b5d2a364bb848b4c59db7f5c63245637a4f304f3e7d1334b1ce6969616d23c1d",
+      "sha256_highlights": "f2c4bad47cff6f7a714681269ad3d234bc846fb2fffb0c2e407a2484565da26f"
+    },
+    {
+      "name": "ocaml",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/ocaml.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/ocaml.scm",
+      "extensions": [".ml", ".mli"],
+      "sha256_wasm": "1b36b8c1412d957b5e18c35936679e58b524d4a0659749411d1951563bd4f6bf",
+      "sha256_highlights": "0e4e33416c72feca0b9c797bf9615a85dc31bd83bc3361e1c8adb124b0eeb54e"
+    },
+    {
+      "name": "fortran",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/fortran.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/fortran.scm",
+      "extensions": [".f90", ".f95", ".f"],
+      "sha256_wasm": "4f342de56aa28cd33a0d28c27cf418b9fa994037b78f4d1dee04155902b37fd5",
+      "sha256_highlights": "dca687f0463378a730250dbefd45de75fc9246d86dc7d44a5678f6be62b452a1"
+    },
+    {
+      "name": "solidity",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/solidity.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/solidity.scm",
+      "extensions": [".sol"],
+      "sha256_wasm": "7ae2d8aff2ec119ff8706667f45f5ff0d4edea901acef86e227664de83c6df51",
+      "sha256_highlights": "8bd846573b9956bab0a92227e3bc5e520c572999d3239730a1d524ca6f5c49c4"
+    },
+    {
+      "name": "cuda",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/cuda.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/cuda.scm",
+      "extensions": [".cu", ".cuh"],
+      "sha256_wasm": "4fb35d542f862c6529815bb2d9fef0fc34840e643290ed6029e38b419e91b309",
+      "sha256_highlights": "e80ca40274f7f70db266a00d6400d04563282655ed9dbd37eef9376793a4960a"
+    },
+    {
+      "name": "glsl",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/glsl.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/glsl.scm",
+      "extensions": [".glsl", ".vert", ".frag"],
+      "sha256_wasm": "e8b6afeefd8e9b9082f198fa38e5b1357850b15b66c1cc8f97683aa77cf95f13",
+      "sha256_highlights": "e43ffe517d8810dba9e3dbb195cb65ea7e6b575bbaf513dd6032416034b06211"
+    },
+    {
+      "name": "asm",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/asm.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/asm.scm",
+      "extensions": [".asm", ".s"],
+      "sha256_wasm": "78d9d36be962e152a06873db229a0c7aa98a5f7ccc7944e0a241ab7c98f6803e",
+      "sha256_highlights": "d0824a9e4e1eb4358b11de323328cb6a2143b164b85c8f1afdcf725d46c30e35"
+    },
+    {
+      "name": "nim",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/nim.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/nim.scm",
+      "extensions": [".nim"],
+      "sha256_wasm": "e1c93a69645edb6fe1d6469a9f064346eb1ea96737bee3c55d7cad0df3c3b939",
+      "sha256_highlights": "feda18993ae651016a36a3d9e936715e6bc31626ecad9ae29006996d597256a8"
+    },
+    {
+      "name": "crystal",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/crystal.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/crystal.scm",
+      "extensions": [".cr"],
+      "sha256_wasm": "31c72ee799451d279321a5b306585328a12c98d8be90258c2f335e14697a7c32",
+      "sha256_highlights": "0e955fb524554d62dbbde235cd9eecc356138a1c9542261ba851500448d7b5ef"
+    },
+    {
+      "name": "odin",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/odin.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/odin.scm",
+      "extensions": [".odin"],
+      "sha256_wasm": "5ff6a56f141d38522d4d16b5bb7ed03330f5a350e4d1a2a85e2cd14ba18033b8",
+      "sha256_highlights": "d32354fc8cef7da7f2b235ed17d2d48c074150d5dc69bfedf18d1370b03f8cc7"
+    },
+    {
+      "name": "d",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/d.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/d.scm",
+      "extensions": [".d"],
+      "sha256_wasm": "58196a2395b6968c19d79026609b42d683fc1932301107902f8c98c87ebef7ff",
+      "sha256_highlights": "7b56d17714bf87a7deacf9d081c5e1cf005aa42c285e877b6e9069da2c102437"
+    },
+    {
+      "name": "gleam",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/gleam.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/gleam.scm",
+      "extensions": [".gleam"],
+      "sha256_wasm": "2ae27f33e8160ea9ec5506b2d5aa479f76428399237a67ebdd11af592d77372a",
+      "sha256_highlights": "e66755469a4b9d11e94eb0f8d281101af9ca5a859bdcd1edaeba33829f46de03"
+    },
+    {
+      "name": "elm",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/elm.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/elm.scm",
+      "extensions": [".elm"],
+      "sha256_wasm": "30e2708c30704223fa0351428d4e81aef32acd9121a7ea35606ddc9fa45bc319",
+      "sha256_highlights": "a912e6c6da177c052f9d10b135d31bf3aee288678374f4217638ca4f3b71845e"
+    },
+    {
+      "name": "purescript",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/purescript.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/purescript.scm",
+      "extensions": [".purs"],
+      "sha256_wasm": "d0a2a6432e56a42fe0a0375347dd791333360b41c675828375ba260c00910968",
+      "sha256_highlights": "aefbe63e489ef8a3d6bc808986c917fe21d3036527e9e6adbfa8d1158f5b700f"
+    },
+    {
+      "name": "racket",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/racket.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/racket.scm",
+      "extensions": [".rkt"],
+      "sha256_wasm": "5affec93f88d8b9e66aee6ad9a385d04f6af07dfc55bc6944993b02af1fa21b2",
+      "sha256_highlights": "01792cd742c91d4f0a93ab8e16214ea47587647b6824207034f118210504c07e"
+    },
+    {
+      "name": "scheme",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/scheme.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/scheme.scm",
+      "extensions": [".scm", ".ss"],
+      "sha256_wasm": "4cbd53c2844a96c47e1ed8f707e3bdb0878eb7764aa7cc5f820806ef963e8927",
+      "sha256_highlights": "6f042dd6e6d1bab5531019fd1caf995ba8830661bf1d568c6c4d3f41ca030c1b"
+    },
+    {
+      "name": "pascal",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/pascal.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/pascal.scm",
+      "extensions": [".pas", ".pp"],
+      "sha256_wasm": "3f51fa35fa380cd1d90973d56d77b43248d3996b7c20a708402d11130bfd4951",
+      "sha256_highlights": "75886413b8fdf44f7fb09b7f3956604d69bed54dcd30ac367339f979a0437a09"
+    },
+    {
+      "name": "ada",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/ada.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/ada.scm",
+      "extensions": [".adb", ".ads"],
+      "sha256_wasm": "4c45d1ce20320c16fd5e4c68feddde0223ba31d07d7879eef446b7d6e98e2e0a",
+      "sha256_highlights": "30a3f0d02112d2a534cf5e9e6685f84d995b438d9d3a2fdeee827effc0109e4d"
+    },
+    {
+      "name": "nix",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/nix.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/nix.scm",
+      "extensions": [".nix"],
+      "sha256_wasm": "cf16edf95a5671432fab2a352c9c4c01dc78451e1e7b3d09d086e788aa1ef5a3",
+      "sha256_highlights": "b634eaf0b297e4347c7d146a4697ff0e1d5e458fa11f3c7c27bf980a57acc828"
+    },
+    {
+      "name": "yaml",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/yaml.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/yaml.scm",
+      "extensions": [".yml", ".yaml"],
+      "sha256_wasm": "6db97056ecf832b27213c4fd879018c2d4ebe747a08cb1f5a437f7e2666f5565",
+      "sha256_highlights": "2fbfbbd5ca0928d0a7e09e59f8f2964b14a328a7ee0ce799270d9013dcce49a0"
+    },
+    {
+      "name": "toml",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/toml.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/toml.scm",
+      "extensions": [".toml"],
+      "sha256_wasm": "81fc14727084deb78b74ea4d8938d5d1a6c207267ff4c6150939a023105bb4a0",
+      "sha256_highlights": "2fb5c61d33a70389312254c9c392e2c5dd6313d958d6e5f8f74cadd5e0811707"
+    },
+    {
+      "name": "dockerfile",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/dockerfile.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/dockerfile.scm",
+      "extensions": [],
+      "sha256_wasm": "85fdefaf7415e47a44824da95e40a33539b08f6430d2060f543255bf7c8f500e",
+      "sha256_highlights": "665444fb7c8099602c78f9563525dedc23bb227fb0a6323820eb10be2592b318"
+    },
+    {
+      "name": "xml",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/xml.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/xml.scm",
+      "extensions": [".xml"],
+      "sha256_wasm": "2e6506d69a36fdbb1581e3139057caca22fc93ae3b9c0ad65c8e94e8d2483978",
+      "sha256_highlights": "aa4a561c846928c3a4d885acbe690a60689661a45684babe16cf8b7a1509b610"
+    },
+    {
+      "name": "make",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/make.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/make.scm",
+      "extensions": [".mk"],
+      "sha256_wasm": "581c3d1c10b94a61b0ad69cdf916d17882a3857c18b1f49c77a539e4e1e12dde",
+      "sha256_highlights": "1dbbd978ee09b8d752779d58626d7f11b621d2d3ccc3a1d041b346ddc34e4508"
+    },
+    {
+      "name": "cmake",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/cmake.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/cmake.scm",
+      "extensions": [".cmake"],
+      "sha256_wasm": "4f8da33d8dffbbd59238f4e4f76736e3ef86a753115a0aa979258d8e81f42829",
+      "sha256_highlights": "935161098bf9e335d4984496626a46d13a650df9145871a9578fe0e25a3e9a6c"
+    },
+    {
+      "name": "graphql",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/graphql.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/graphql.scm",
+      "extensions": [".graphql", ".gql"],
+      "sha256_wasm": "031ab1c75135bb33596efb76d84975793383b525ea29a805279f30a68c94469d",
+      "sha256_highlights": "439c35df9b072a9eeb7c2a284c0c27943b8273dbe100ed51c754bfb38e316067"
+    },
+    {
+      "name": "proto",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/proto.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/proto.scm",
+      "extensions": [".proto"],
+      "sha256_wasm": "c511c114065f055d8a7bb589cd9d3d5aa02b9aa147d7ff096259e61fdbbfa37a",
+      "sha256_highlights": "90d918dad99f076681aa035b6879f0c3d3dca207b8490a9ddd670200af68689d"
+    },
+    {
+      "name": "ini",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/ini.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/ini.scm",
+      "extensions": [".ini"],
+      "sha256_wasm": "a86d41b1d2430307a9da5b8ad0c4ce12e3091de9765f6b7466bed9e0552f9205",
+      "sha256_highlights": "93a66eabc76cd3c1e3532e3348e234f2f2fc5d38e679ad5f4a61e7cd5635a81f"
+    },
+    {
+      "name": "diff",
+      "version": "0.0.1",
+      "wasm_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/diff.wasm",
+      "highlights_url": "https://github.com/MetoA/znip_grammars/releases/download/0.0.1/diff.scm",
+      "extensions": [".diff", ".patch"],
+      "sha256_wasm": "2706c7f234c8563212903830370df38aa341159f125e312acf3a816e38579419",
+      "sha256_highlights": "6e7ac233333886d61fa0cd4186c36b7ab34fa95a86aea618ed87b60f9eaa4e4b"
     }
   ]
 }
